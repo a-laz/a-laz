@@ -1,7 +1,6 @@
 # Hey, I'm Alex 👋
 
-I'm a full-stack developer and builder who likes shipping **real, automated systems**  
-from AI/agentic backends to fully automated trading engines.
+I'm a full-stack developer and builder who likes shipping **real, automated systems** from AI/agentic backends to fully automated trading engines.
 
 Right now I'm mostly living at the intersection of:
 
