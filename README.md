@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Alex 👋</h1>
 
 <p align="center">
-  <strong>Full‑stack dev building real, automated systems — from agentic AI backends to fully automated trading engines.</strong>
+  <strong>Full‑stack dev building real, automated systems from agentic AI backends to fully automated trading engines.</strong>
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ Building an **agentic finance / DeFi platform** focused on:
 - Risk‑aware execution  
 - Yield & strategy pipelines
 
-<sub><strong>Role:</strong> Lead AI Product Developer — multi‑agent systems, infra, and strategy plumbing.</sub>
+<sub><strong>Role:</strong> Lead AI Product Developer: multi‑agent systems, infra, and strategy plumbing.</sub>
 
 </td>
     <td width="50%" valign="top">
@@ -62,7 +62,7 @@ A fully automated **futures / crypto trading engine** with:
   </tr>
 </table>
 
-> These live mostly in private repos right now — I’ll open up more of the ecosystem over time.
+> These live mostly in private repos right now. I’ll open up more of the ecosystem over time.
 
 ---
 
