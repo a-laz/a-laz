@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Full‑stack & quant dev building agentic AI systems, automated trading engines, and real‑world ops automation.</strong>
+  <strong>NodeAI specialist, systems architect, and full‑stack/quant dev building agentic AI systems, automated trading engines, and real‑world ops automation.</strong>
 </p>
 
 <p align="center">
@@ -20,20 +20,23 @@
 </p>
 
 <p align="center">
+  <img alt="NodeAI Specialist" src="https://img.shields.io/badge/NodeAI_Specialist-111827?style=flat-square" />
+  <img alt="Systems Architect" src="https://img.shields.io/badge/Systems_Architect-111827?style=flat-square" />
   <img alt="AI Agents" src="https://img.shields.io/badge/AI_Agents_&_Automation-111827?style=flat-square" />
   <img alt="Systematic Trading" src="https://img.shields.io/badge/Systematic_Trading-111827?style=flat-square" />
-  <img alt="Full Stack Web" src="https://img.shields.io/badge/Full_Stack_Web_(Django_+_React)-111827?style=flat-square" />
+  <img alt="Full Stack Web" src="https://img.shields.io/badge/Full_Stack_Web_(Django_+_Next.js)-111827?style=flat-square" />
 </p>
 
 ---
 
 ## 🧭 About & Focus
 
-- 🧠 **AI agents & automation** — multi‑agent systems that plan, act, and report.
-- 🧮 **Systematic trading** — engines, not one‑off strategies: execution, risk, monitoring.
-- 🌐 **Full‑stack web** — Django / FastAPI backends with React / Next.js frontends.
-- 💸 **DeFi & on‑chain data** — indexing, strategy plumbing, and risk‑aware execution.
-- ⚙️ **Real‑world ops automation** — glue code for messy systems and APIs.
+- 🧠 **NodeAI & multi‑agent systems** — graph / node‑based agent workflows that plan, act, and report.  
+- 🧮 **Systematic trading** — engines, not one‑off strategies: execution, risk, monitoring.  
+- 🌐 **Full‑stack web** — Django / FastAPI backends with React / Next.js frontends.  
+- 💸 **DeFi & on‑chain data** — indexing, strategy plumbing, and risk‑aware execution.  
+- ⚙️ **Real‑world ops automation** — glue code for messy systems and APIs.  
+- 🧱 **Systems architecture** — event‑driven, distributed, and observable services (Redis, Kafka, queues).  
 
 ---
 
@@ -51,7 +54,7 @@ An **agentic finance / DeFi platform** focused on:
 - Risk‑aware execution  
 - Yield & strategy pipelines  
 
-<sub><strong>Role:</strong> Lead AI Product Developer — multi‑agent systems, infra, and strategy plumbing.</sub>
+<sub><strong>Role:</strong> Lead AI Product Developer — NodeAI systems, multi‑agent infra, and strategy plumbing.</sub>
 
 </td>
     <td width="50%" valign="top">
@@ -79,16 +82,20 @@ A fully automated **futures / crypto trading engine** with:
 ### 🧩 Core stack
 
 <p>
-  <img alt="Core stack" src="https://skillicons.dev/icons?i=python,django,fastapi,react,nextjs,postgres,redis,docker,aws,azure,git,github,linux" />
+  <img
+    alt="Core stack"
+    src="https://go-skill-icons.vercel.app/api/icons?i=python,rust,django,fastapi,react,nextjs,postgresql,redis,kafka,aws,azure,docker,github,linux&perline=8"
+  />
 </p>
 
-- **Backends:** Python, Django, Django REST Framework, FastAPI  
-- **Frontends:** React, Next.js  
-- **Data & async:** Postgres, Redis, Celery  
+- **Backends:** Python, Django, Django REST Framework, FastAPI, Rust where it fits.  
+- **Frontends:** React, Next.js.  
+- **Data & async:** Postgres, **Redis**, **Kafka**, Celery.  
 
 ### 🏗 Systems & infra
 
 - gRPC / REST microservices  
+- Event‑driven architecture with **Kafka** & message queues  
 - Dockerized services & local dev environments  
 - GitHub Actions for CI/CD  
 - AWS / Azure for deployment, storage, and queues  
@@ -98,7 +105,8 @@ A fully automated **futures / crypto trading engine** with:
 
 - Backtesting & live execution engines  
 - DeFi APIs and on‑chain data pipelines  
-- LLMs & multi‑agent systems (tool use, planning, evaluation, orchestration)
+- LLMs & multi‑agent systems (tool use, planning, evaluation, orchestration)  
+- NodeAI / node‑graph workflows for controllable, debuggable AI pipelines  
 
 ---
 
@@ -107,8 +115,8 @@ A fully automated **futures / crypto trading engine** with:
 - 🧮 **Systematic trading**  
   Building **engines**, not just strategies — robust risk frameworks, execution, and monitoring.
 
-- 🧠 **Agentic systems**  
-  Orchestrating **multiple AI agents** to do real work: research, decision‑making, execution, reporting.
+- 🧠 **Agentic & NodeAI systems**  
+  Orchestrating **multiple AI agents** (and nodes) to do real work: research, decision‑making, execution, reporting.
 
 - 📦 **Real‑world ops automation**  
   Turning logistics‑like problems and manual workflows into **observable, automated systems** that actually run in production.
@@ -121,14 +129,14 @@ A fully automated **futures / crypto trading engine** with:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=a-laz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
     alt="GitHub stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github_dark&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=a-laz&theme=github_dark&hide_border=true"
     alt="GitHub streaks"
   />
 </p>
@@ -153,7 +161,7 @@ A fully automated **futures / crypto trading engine** with:
 
 - I like turning manual, error‑prone workflows into **automated, observable systems**.  
 - I care a lot about **clean abstractions** around messy domains (finance, logistics, trading).  
-- Always down to jam on: **AI agents, DeFi primitives, trading infrastructure, and weird side projects.**
+- Always down to jam on: **AI agents, NodeAI graphs, DeFi primitives, trading infrastructure, and weird side projects.**
 
 <p align="center">
   <em>Thanks for stopping by — feel free to reach out if you want to build something interesting.</em>
