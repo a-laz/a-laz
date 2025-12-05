@@ -1,7 +1,9 @@
-<h1 align="center">Hey, I'm Alex 👋</h1>
+<h1 align="center">
+  Hey, I'm Alex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+</h1>
 
 <p align="center">
-  <strong>Full‑stack dev building real, automated systems from agentic AI backends to fully automated trading engines.</strong>
+  <strong>Full‑stack & quant dev building agentic AI systems, automated trading engines, and real‑world ops automation.</strong>
 </p>
 
 <p align="center">
@@ -14,6 +16,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
   <img alt="AI Agents" src="https://img.shields.io/badge/AI_Agents_&_Automation-111827?style=flat-square" />
   <img alt="Systematic Trading" src="https://img.shields.io/badge/Systematic_Trading-111827?style=flat-square" />
   <img alt="Full Stack Web" src="https://img.shields.io/badge/Full_Stack_Web_(Django_+_React)-111827?style=flat-square" />
@@ -21,76 +27,72 @@
 
 ---
 
-## 🧭 What I’m into
+## 🧭 About & Focus
 
-- 🧠 **AI agents & automation**
-- 📈 **Systematic trading & execution**
-- 🌐 **Full‑stack web** (Django, React, Next.js)
-- 🧮 **DeFi & on-chain data**
-- ⚙️ **Real‑world ops automation** (glue code for messy systems)
+- 🧠 **AI agents & automation** — multi‑agent systems that plan, act, and report.
+- 🧮 **Systematic trading** — engines, not one‑off strategies: execution, risk, monitoring.
+- 🌐 **Full‑stack web** — Django / FastAPI backends with React / Next.js frontends.
+- 💸 **DeFi & on‑chain data** — indexing, strategy plumbing, and risk‑aware execution.
+- ⚙️ **Real‑world ops automation** — glue code for messy systems and APIs.
 
 ---
 
-## 🚧 What I’m working on
+## 🚀 What I’m building
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🧠 TemporAI
+<h3>🧠 TemporAI</h3>
 
-Building an **agentic finance / DeFi platform** focused on:
+An **agentic finance / DeFi platform** focused on:
 
 - Automated portfolio workflows  
 - Risk‑aware execution  
-- Yield & strategy pipelines
+- Yield & strategy pipelines  
 
-<sub><strong>Role:</strong> Lead AI Product Developer: multi‑agent systems, infra, and strategy plumbing.</sub>
+<sub><strong>Role:</strong> Lead AI Product Developer — multi‑agent systems, infra, and strategy plumbing.</sub>
 
 </td>
     <td width="50%" valign="top">
 
-### 📈 Automated Trading Engine
+<h3>📈 Automated Trading Engine</h3>
 
 A fully automated **futures / crypto trading engine** with:
 
 - Backtesting + walk‑forward analysis  
 - Live execution layer  
-- Strategy config via code, not clicks
+- Strategy config via code, not clicks  
+
+<sub>Designed for repeatable, observable, and debuggable live trading.</sub>
 
 </td>
   </tr>
 </table>
 
-> These live mostly in private repos right now. I’ll open up more of the ecosystem over time.
+> These live mostly in private repos for now — I’ll open up more of the ecosystem over time.
 
 ---
 
-## 🛠 Tech & tools
+## 🧰 Tech & Tools
 
 ### 🧩 Core stack
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img alt="DRF" src="https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="Core stack" src="https://skillicons.dev/icons?i=python,django,fastapi,react,nextjs,postgres,redis,docker,aws,azure,git,github,linux" />
 </p>
 
-<p>
-  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="Celery" src="https://img.shields.io/badge/Celery-37814A?style=flat-square" />
-</p>
+- **Backends:** Python, Django, Django REST Framework, FastAPI  
+- **Frontends:** React, Next.js  
+- **Data & async:** Postgres, Redis, Celery  
 
 ### 🏗 Systems & infra
 
 - gRPC / REST microservices  
 - Dockerized services & local dev environments  
 - GitHub Actions for CI/CD  
-- AWS / Azure for deployment, storage, and queues
+- AWS / Azure for deployment, storage, and queues  
+- Observability & monitoring baked into the stack
 
 ### 📊 Quant / DeFi / AI
 
@@ -115,6 +117,31 @@ A fully automated **futures / crypto trading engine** with:
 
 ---
 
+## 📈 GitHub at a glance
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github_dark&hide_border=true"
+    alt="GitHub streaks"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-laz&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top languages"
+  />
+</p>
+
+---
+
 ## 📫 Find me online
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alex-lazarev-48b47614b/)  
@@ -127,3 +154,7 @@ A fully automated **futures / crypto trading engine** with:
 - I like turning manual, error‑prone workflows into **automated, observable systems**.  
 - I care a lot about **clean abstractions** around messy domains (finance, logistics, trading).  
 - Always down to jam on: **AI agents, DeFi primitives, trading infrastructure, and weird side projects.**
+
+<p align="center">
+  <em>Thanks for stopping by — feel free to reach out if you want to build something interesting.</em>
+</p>
