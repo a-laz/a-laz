@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=a-laz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -31,12 +31,12 @@
 
 ## 🧭 About & Focus
 
-- 🧠 **NodeAI & multi‑agent systems** — graph / node‑based agent workflows that plan, act, and report.  
+- 🧠 **NodeAI & multi‑agent systems** — node/graph‑based workflows that plan, act, and report.  
 - 🧮 **Systematic trading** — engines, not one‑off strategies: execution, risk, monitoring.  
-- 🌐 **Full‑stack web** — Django / FastAPI backends with React / Next.js frontends.  
+- 🌐 **Full‑stack web** — Django / FastAPI + React / Next.js.  
 - 💸 **DeFi & on‑chain data** — indexing, strategy plumbing, and risk‑aware execution.  
-- ⚙️ **Real‑world ops automation** — glue code for messy systems and APIs.  
-- 🧱 **Systems architecture** — event‑driven, distributed, and observable services (Redis, Kafka, queues).  
+- 🧱 **Systems architecture** — event‑driven, distributed, observable services (Redis, Kafka, queues).  
+- ⚙️ **Real‑world ops automation** — glue code for messy systems and APIs.
 
 ---
 
@@ -81,21 +81,23 @@ A fully automated **futures / crypto trading engine** with:
 
 ### 🧩 Core stack
 
-<p>
-  <img
-    alt="Core stack"
-    src="https://go-skill-icons.vercel.app/api/icons?i=python,rust,django,fastapi,react,nextjs,postgresql,redis,kafka,aws,azure,docker,github,linux&perline=8"
-  />
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      alt="Core stack"
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,rust,django,fastapi,react,nextjs,postgresql,redis,kafka,aws,azure,docker,github,linux&perline=8"
+    />
+  </a>
 </p>
 
-- **Backends:** Python, Django, Django REST Framework, FastAPI, Rust where it fits.  
+- **Backends:** Python, Django, DRF, FastAPI, Rust (for the sharp edges).  
 - **Frontends:** React, Next.js.  
 - **Data & async:** Postgres, **Redis**, **Kafka**, Celery.  
 
 ### 🏗 Systems & infra
 
 - gRPC / REST microservices  
-- Event‑driven architecture with **Kafka** & message queues  
+- Event‑driven architecture (Kafka, queues, background workers)  
 - Dockerized services & local dev environments  
 - GitHub Actions for CI/CD  
 - AWS / Azure for deployment, storage, and queues  
@@ -128,24 +130,30 @@ A fully automated **futures / crypto trading engine** with:
 ## 📈 GitHub at a glance
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=a-laz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub stats"
-  />
+  <a href="https://github.com/a-laz">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=a-laz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+      alt="Alex's GitHub stats"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=a-laz&theme=github_dark&hide_border=true"
-    alt="GitHub streaks"
-  />
+  <a href="https://github.com/a-laz">
+    <img
+      src="https://streak-stats.demolab.com/?user=a-laz&theme=github-dark-blue&hide_border=true"
+      alt="GitHub Streak"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-laz&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top languages"
-  />
+  <a href="https://github.com/a-laz">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-laz&layout=compact&theme=github_dark&hide_border=true"
+      alt="Top languages"
+    />
+  </a>
 </p>
 
 ---
