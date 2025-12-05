@@ -16,15 +16,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=a-laz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
   <img alt="NodeAI Specialist" src="https://img.shields.io/badge/NodeAI_Specialist-111827?style=flat-square" />
   <img alt="Systems Architect" src="https://img.shields.io/badge/Systems_Architect-111827?style=flat-square" />
   <img alt="AI Agents" src="https://img.shields.io/badge/AI_Agents_&_Automation-111827?style=flat-square" />
   <img alt="Systematic Trading" src="https://img.shields.io/badge/Systematic_Trading-111827?style=flat-square" />
-  <img alt="Full Stack Web" src="https://img.shields.io/badge/Full_Stack_Web_(Django_+_Next.js)-111827?style=flat-square" />
+  <img alt="Full Stack Web" src="https://img.shields.io/badge/Full_Stack_Web_(Django_+_Rails_+_Next.js)-111827?style=flat-square" />
 </p>
 
 ---
@@ -33,7 +29,7 @@
 
 - 🧠 **NodeAI & multi‑agent systems** — node/graph‑based workflows that plan, act, and report.  
 - 🧮 **Systematic trading** — engines, not one‑off strategies: execution, risk, monitoring.  
-- 🌐 **Full‑stack web** — Django / FastAPI + React / Next.js.  
+- 🌐 **Full‑stack web** — Django / FastAPI / **Rails + Turbo** with React / Next.js.  
 - 💸 **DeFi & on‑chain data** — indexing, strategy plumbing, and risk‑aware execution.  
 - 🧱 **Systems architecture** — event‑driven, distributed, observable services (Redis, Kafka, queues).  
 - ⚙️ **Real‑world ops automation** — glue code for messy systems and APIs.
@@ -82,16 +78,16 @@ A fully automated **futures / crypto trading engine** with:
 ### 🧩 Core stack
 
 <p align="left">
-  <a href="https://go-skill-icons.vercel.app/">
+  <a href="https://skillicons.dev">
     <img
-      alt="Core stack"
-      src="https://go-skill-icons.vercel.app/api/icons?i=python,rust,django,fastapi,react,nextjs,postgresql,redis,kafka,aws,azure,docker,github,linux&perline=8"
+      src="https://skillicons.dev/icons?i=python,ruby,rust,django,rails,fastapi,react,nextjs,postgresql,redis,kafka,aws,azure,docker,git,github,linux&perline=8"
+      alt="Tech stack icons"
     />
   </a>
 </p>
 
-- **Backends:** Python, Django, DRF, FastAPI, Rust (for the sharp edges).  
-- **Frontends:** React, Next.js.  
+- **Backends:** Python, Django, DRF, FastAPI, **Ruby on Rails**, Rust where it fits.  
+- **Frontends:** React, Next.js, **Turbo Rails** for HTML‑first interactivity.  
 - **Data & async:** Postgres, **Redis**, **Kafka**, Celery.  
 
 ### 🏗 Systems & infra
@@ -132,8 +128,17 @@ A fully automated **futures / crypto trading engine** with:
 <p align="center">
   <a href="https://github.com/a-laz">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=a-laz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-      alt="Alex's GitHub stats"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-laz&theme=github_dark"
+      alt="GitHub summary stats"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=a-laz&theme=github-dark-blue&hide_border=true"
+      alt="GitHub streak"
     />
   </a>
 </p>
@@ -141,17 +146,8 @@ A fully automated **futures / crypto trading engine** with:
 <p align="center">
   <a href="https://github.com/a-laz">
     <img
-      src="https://streak-stats.demolab.com/?user=a-laz&theme=github-dark-blue&hide_border=true"
-      alt="GitHub Streak"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/a-laz">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-laz&layout=compact&theme=github_dark&hide_border=true"
-      alt="Top languages"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a-laz&theme=github_dark"
+      alt="Top languages by repo"
     />
   </a>
 </p>
