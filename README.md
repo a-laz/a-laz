@@ -36,7 +36,7 @@
 
 ---
 
-## 🚀 What I’m building
+## 🚀 What I’m building now
 
 <table>
   <tr>
