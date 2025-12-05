@@ -2,8 +2,6 @@
   Hey, I'm Alex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a-laz&label=Profile%20views&color=0e75b6&style=flat" alt="a-laz" /> </p>
-
 <p align="center">
   <strong>NodeAI specialist, systems architect, and full‑stack/quant dev building agentic AI systems, automated trading engines, and real‑world ops automation.</strong>
 </p>
