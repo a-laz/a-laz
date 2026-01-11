@@ -36,11 +36,11 @@
 
 ---
 
-## 🚀 What I’m building now
+## 🚀 What I'm building now
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
 <h3>🧠 TemporAI</h3>
 
@@ -53,7 +53,7 @@ An **agentic finance / DeFi platform** focused on:
 <sub><strong>Role:</strong> Lead AI Product Developer — NodeAI systems, multi‑agent infra, and strategy plumbing.</sub>
 
 </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
 <h3>📈 Automated Trading Engine</h3>
 
@@ -66,10 +66,23 @@ A fully automated **futures / crypto trading engine** with:
 <sub>Designed for repeatable, observable, and debuggable live trading.</sub>
 
 </td>
+    <td width="33%" valign="top">
+
+<h3>🌱 REFI2 Protocol</h3>
+
+A **regenerative finance protocol** on Solana:
+
+- Overcollateralized stablecoin backed by real‑world mortgage assets  
+- 8% APY yield paid in USDC  
+- Token‑2022 with PDA‑controlled minting  
+
+<sub><strong>Stack:</strong> Rust/Anchor, Token‑2022, Next.js — bridging RWA and DeFi.</sub>
+
+</td>
   </tr>
 </table>
 
-> These live mostly in private repos for now — I’ll open up more of the ecosystem over time.
+> These live mostly in private repos for now — I'll open up more of the ecosystem over time.
 
 ---
 
@@ -80,7 +93,7 @@ A fully automated **futures / crypto trading engine** with:
 <p align="left">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=python,ruby,rust,django,rails,fastapi,react,nextjs,postgresql,redis,kafka,aws,azure,docker,git,github,linux&perline=8"
+      src="https://skillicons.dev/icons?i=python,ruby,rust,django,rails,fastapi,react,nextjs,postgresql,redis,kafka,aws,azure,docker,git,github,linux,solana&perline=9"
       alt="Tech stack icons"
     />
   </a>
@@ -89,6 +102,7 @@ A fully automated **futures / crypto trading engine** with:
 - **Backends:** Python, Django, DRF, FastAPI, **Ruby on Rails**, Rust where it fits.  
 - **Frontends:** React, Next.js, **Turbo Rails** for HTML‑first interactivity.  
 - **Data & async:** Postgres, **Redis**, **Kafka**, Celery.  
+- **Blockchain:** Solana, Anchor, Token‑2022, on‑chain program development.
 
 ### 🏗 Systems & infra
 
@@ -105,6 +119,7 @@ A fully automated **futures / crypto trading engine** with:
 - DeFi APIs and on‑chain data pipelines  
 - LLMs & multi‑agent systems (tool use, planning, evaluation, orchestration)  
 - NodeAI / node‑graph workflows for controllable, debuggable AI pipelines  
+- Solana smart contracts (Anchor/Rust) for tokenization & staking systems
 
 ---
 
@@ -115,6 +130,9 @@ A fully automated **futures / crypto trading engine** with:
 
 - 🧠 **Agentic & NodeAI systems**  
   Orchestrating **multiple AI agents** (and nodes) to do real work: research, decision‑making, execution, reporting.
+
+- 🌱 **RWA & DeFi infrastructure**  
+  Bridging **real‑world assets** with on‑chain protocols — tokenization, yield distribution, and transparent collateralization.
 
 - 📦 **Real‑world ops automation**  
   Turning logistics‑like problems and manual workflows into **observable, automated systems** that actually run in production.
