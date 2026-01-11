@@ -20,6 +20,7 @@
   <img alt="Systems Architect" src="https://img.shields.io/badge/Systems_Architect-111827?style=flat-square" />
   <img alt="AI Agents" src="https://img.shields.io/badge/AI_Agents_&_Automation-111827?style=flat-square" />
   <img alt="Systematic Trading" src="https://img.shields.io/badge/Systematic_Trading-111827?style=flat-square" />
+  <img alt="Rust & Anchor" src="https://img.shields.io/badge/Rust_&_Anchor_(Solana)-111827?style=flat-square" />
   <img alt="Full Stack Web" src="https://img.shields.io/badge/Full_Stack_Web_(Django_+_Rails_+_Next.js)-111827?style=flat-square" />
 </p>
 
@@ -76,7 +77,7 @@ A **regenerative finance protocol** on Solana:
 - 8% APY yield paid in USDC  
 - Token‑2022 with PDA‑controlled minting  
 
-<sub><strong>Stack:</strong> Rust/Anchor, Token‑2022, Next.js — bridging RWA and DeFi.</sub>
+<sub><strong>Stack:</strong> Rust, Anchor, Token‑2022, Next.js — bridging RWA and DeFi.</sub>
 
 </td>
   </tr>
@@ -99,10 +100,10 @@ A **regenerative finance protocol** on Solana:
   </a>
 </p>
 
-- **Backends:** Python, Django, DRF, FastAPI, **Ruby on Rails**, Rust where it fits.  
+- **Backends:** Python, Django, DRF, FastAPI, **Ruby on Rails**, **Rust**.  
 - **Frontends:** React, Next.js, **Turbo Rails** for HTML‑first interactivity.  
 - **Data & async:** Postgres, **Redis**, **Kafka**, Celery.  
-- **Blockchain:** Solana, Anchor, Token‑2022, on‑chain program development.
+- **Blockchain:** Solana, **Anchor Framework**, Token‑2022, PDA‑based program architecture.
 
 ### 🏗 Systems & infra
 
@@ -119,7 +120,7 @@ A **regenerative finance protocol** on Solana:
 - DeFi APIs and on‑chain data pipelines  
 - LLMs & multi‑agent systems (tool use, planning, evaluation, orchestration)  
 - NodeAI / node‑graph workflows for controllable, debuggable AI pipelines  
-- Solana smart contracts (Anchor/Rust) for tokenization & staking systems
+- **Rust + Anchor** smart contracts for tokenization, staking & DeFi primitives
 
 ---
 
