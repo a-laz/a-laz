@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:alex@tempor.ai">
-    <img alt="Email - alex@tempor.ai" src="https://img.shields.io/badge/Email-alex%40tempor.ai-orange?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:alex4sigma@gmail.com">
+    <img alt="Email - alex4sigma@gmail.com" src="https://img.shields.io/badge/Email-alex4sigma%40gmail.com-orange?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/alex-lazarev-48b47614b/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alex%20Lazarev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
