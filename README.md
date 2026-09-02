@@ -46,16 +46,16 @@
 
 <h3>🛡 ERC-8226 & Spend Mandates</h3>
 
-**First external integration** of the Regulated Agent Mandate Standard, live on Sepolia against the reference registry:
+**Co-author on the ERC-8226 spec update** merged into `ethereum/ERCs` (<a href="https://github.com/ethereum/ERCs/pull/1982">PR #1982</a>, Aug 2026), with Vlad Kuznetsov and CJ Lee:
 
-- RAMS-aware ERC-20 with a three-layer authorization gate
-- Co-designed the `ExecutionReason` interface going into the spec
-- Full review published to the authors, findings on the <a href="https://ethereum-magicians.org/t/erc-8226-regulated-agent-mandate/28208">Magicians thread</a>
+- `canExecute` now returns `(bool ok, MandateReason reason)` with a normative evaluation order, so agents know why a mandate failed
+- Split `freezeAgent` / `freezePrincipal`, mandate lifetime bounded by the compliance provider's `expiresAt`
+- Per-function action labels replacing `msg.sig`, and the venue split for assets you do and don't control
+- Reference implementation: `RamsGated` base + `RamsGatedURWA20` (ERC-7943 asset), 105 tests, full line and branch coverage
+
+**First external integration** of RAMS, live on Sepolia: a RAMS-aware ERC-20 with a three-layer authorization gate. The spec changes above came out of that integration and the <a href="https://ethereum-magicians.org/t/erc-8226-regulated-agent-mandate/28208">Magicians thread</a>.
 
 <sub><strong>Also:</strong> co-author of a draft EIP on asset-enforced spend mandates, grown out of Verified Agent Rails (ETHGlobal NY 2026).</sub>
-
-</td>
-    <td width="33%" valign="top">
 
 <h3>🌱 REFI2 Protocol</h3>
 
