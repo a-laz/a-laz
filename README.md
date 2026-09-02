@@ -56,6 +56,8 @@
 **First external integration** of RAMS, live on Sepolia: a RAMS-aware ERC-20 with a three-layer authorization gate. The spec changes above came out of that integration and the <a href="https://ethereum-magicians.org/t/erc-8226-regulated-agent-mandate/28208">Magicians thread</a>.
 
 <sub><strong>Also:</strong> co-author of a draft EIP on asset-enforced spend mandates, grown out of Verified Agent Rails (ETHGlobal NY 2026).</sub>
+</td>
+    <td width="33%" valign="top">
 
 <h3>🌱 REFI2 Protocol</h3>
 
